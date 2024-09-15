@@ -1,0 +1,6 @@
+@FlowPlannerAPI_HostAddress = http://localhost:5081
+
+GET {{FlowPlannerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
